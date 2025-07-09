@@ -1,0 +1,17 @@
+#accelerate
+opencv-python
+diffusers
+matplotlib
+onnx
+onnxruntime
+opencv-python
+Pillow
+pycocotools
+requests
+transformers
+torch
+torchvision
+#xformers
+
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/EnricoSimionato/Experiment-Orchestrator.git@master#egg=exporch
